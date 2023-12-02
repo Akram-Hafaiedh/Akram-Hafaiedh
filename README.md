@@ -1,10 +1,10 @@
-## Hi 👋 Im Akram Hafaiedh, a passionate "Full Stack Developer" based in the northern suburbs of Tunis.\
-With  3y+ of experience, my tech stack include MEAN/MERN , PHP, Laravel , Django, and more.\
-I've led innovative projects, so lets connect and explore web and mobile developpement possibilites! 🚀\
+# Hi 👋 Im Akram Hafaiedh, a passionate "Full Stack Developer" based in the northern suburbs of Tunis. 
+With  3y+ of experience, my tech stack include MEAN/MERN , PHP, Laravel , Django, and more.
+I've led innovative projects, so lets connect and explore web and mobile developpement possibilites! 🚀 
 
 **Motto 💬 : "Turning ideas into digital realities, one line of code at a time."**
 
-- 🔭 I’m currently working as a freelance on mern stack app : terrainet (web and mobile) \
+- 🔭 I’m currently working as a freelance on mern stack app : terrainet (web and mobile) 
 <!--
 **Akram-Hafaiedh/Akram-Hafaiedh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -16,10 +16,10 @@ I've led innovative projects, so lets connect and explore web and mobile develop
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-## Tech stack:\
+## Tech stack: 
 
-- 👌 MERN ( MongoDB , Express, React/React Native , Node.js).\
-- 🤟 Laravel Full stack ( Blade, Interia, Livewire ).\
+- 👌 MERN ( MongoDB , Express, React/React Native , Node.js) 
+- 🤟 Laravel Full stack ( Blade, Interia, Livewire ) 
 - 🤔 Django full stack (Python)
   
 
@@ -37,7 +37,7 @@ I've led innovative projects, so lets connect and explore web and mobile develop
 
 ## Reach Me:
 
-- 📫 Email: [hafaiedhakram@gmail.com](mailto:hafaiedhakram@gmail.com)\
-- 🐦 Twitter : [@HfaiedhAkram](https://twitter.com/HfaiedhAkram)\
-- 💼 LinkedIn : [linkedin.com/in/akram-hafaiedh](https://www.linkedin.com/in/akram-hafaiedh-368b3312b/)\
-- 🌐 My Portfolio ( under construction, coming soon)\
+- 📫 Email: [hafaiedhakram@gmail.com](mailto:hafaiedhakram@gmail.com)
+- 🐦 Twitter : [@HfaiedhAkram](https://twitter.com/HfaiedhAkram)
+- 💼 LinkedIn : [linkedin.com/in/akram-hafaiedh](https://www.linkedin.com/in/akram-hafaiedh-368b3312b/)
+- 🌐 My Portfolio ( under construction, coming soon)
