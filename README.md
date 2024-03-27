@@ -4,7 +4,7 @@ I've led innovative projects, so lets connect and explore web and mobile develop
 
 **Motto 💬 : "Turning ideas into digital realities, one line of code at a time."**
 
-- 🔭 I’m currently working as a freelance on mern stack app : terrainet (web and mobile) 
+- 🔭 I’m currently working as a software engineer in a  on mern stack app : terrainet (web and mobile) 
 <!--
 **Akram-Hafaiedh/Akram-Hafaiedh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -17,20 +17,25 @@ I've led innovative projects, so lets connect and explore web and mobile develop
 - ⚡ Fun fact: ...
 -->
 ## Tech stack: 
-
+###⚡Js:
 - 👌 MERN ( MongoDB , Express, React/React Native , Node.js) 
+- 👌 MEAN ( MongoDB , Express, Angular , Node.js) 
+- 👌 MEVN ( MongoDB , Express, Vue , Node.js)
+###⚡PHP:
+- 👌 Tall stack ( Tailwind , Alpinejs, Livewire , Laravel) 
 - 🤟 Laravel Full stack ( Blade, Interia, Livewire ) 
+- 🤔 Native PHP stack ( Blade, Interia, Livewire )
+###⚡Python:
 - 🤔 Django full stack (Python)
-  
 
 ## Collaboration:
 
 - 👯 I’m actively seeking opportunities to collaborate on open source projects that focus on innovative solutions and community impact.
-- 🌐 Open to discussions about projects related to web and mobile development, especially those utilizing the MERN stack and Laravel.
+- 🌐 Open to discussions about projects related to web and mobile development.
   
 ## Learning:
 
-- 🌱 Currently deepening my knowledge in Next.js to enhance my expertise in React-based frameworks.
+- 🌱 Currently deepening my knowledge in Next.js/Nuxt.js to enhance my expertise in React-based frameworks.
 - 💡 Exploring new advancements in full stack development and staying updated on industry best practices.
 - 📚 Open to recommendations for books, courses, or resources that can contribute to my continuous learning journey.
 
