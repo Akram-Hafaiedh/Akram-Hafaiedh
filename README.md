@@ -17,15 +17,21 @@ I've led innovative projects, so lets connect and explore web and mobile develop
 - ⚡ Fun fact: ...
 -->
 ## Tech stack: 
+
 ###⚡Js:
+
 - 👌 MERN ( MongoDB , Express, React/React Native , Node.js) 
 - 👌 MEAN ( MongoDB , Express, Angular , Node.js) 
 - 👌 MEVN ( MongoDB , Express, Vue , Node.js)
+
 ###⚡PHP:
+
 - 👌 Tall stack ( Tailwind , Alpinejs, Livewire , Laravel) 
 - 🤟 Laravel Full stack ( Blade, Interia, Livewire ) 
 - 🤔 Native PHP stack ( Blade, Interia, Livewire )
+ 
 ###⚡Python:
+
 - 🤔 Django full stack (Python)
 
 ## Collaboration:
