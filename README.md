@@ -60,7 +60,8 @@ I've led innovative projects, so lets connect and explore web and mobile develop
 
 ## Reach Me:
 
-- 📫 Email: [hafaiedhakram@gmail.com](mailto:hafaiedhakram@gmail.com)
+- 📫 Email : [hafaiedhakram@gmail.com](mailto:hafaiedhakram@gmail.com)
+- 🦊 Gitlab : [Hafaiedh.Akram](https://gitlab.com/Hafaiedh.Akram)
 - 🐦 Twitter : [@HfaiedhAkram](https://twitter.com/HfaiedhAkram)
 - 💼 LinkedIn : [linkedin.com/in/akram-hafaiedh](https://www.linkedin.com/in/akram-hafaiedh-368b3312b/)
 - 🌐 My Portfolio ( under construction, coming soon)
