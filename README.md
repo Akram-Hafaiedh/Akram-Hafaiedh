@@ -25,6 +25,10 @@ I've led innovative projects, so lets connect and explore web and mobile develop
 - 👌 MEVN ( MongoDB , Express, Vue , Node.js)
 - 👌 Nuxt.js ( Vue, Any Database, Node.js)
 - 👌 Next.js ( React, Any Database, Node.js)
+- 🔄 Strapi + Vue (Strapi, Vue)
+- ⚛️ Strapi + React (Strapi, React)
+- 🔺 Strapi + Angular (Strapi, Angular)
+ 
 
 ⚡PHP:
 
@@ -35,10 +39,7 @@ I've led innovative projects, so lets connect and explore web and mobile develop
 - 💙 Laravel + Vue ( Laravel, Vue)
 - ⚛️ Laravel + React ( Laravel, React)
 - 🔺 Laravel + Angular ( Laravel, Angular)
-- 🔄 Strapi + Vue (Strapi, Vue)
-- ⚛️ Strapi + React (Strapi, React)
-- 🔺 Strapi + Angular (Strapi, Angular)
- 
+
 ⚡Python:
 
 - 🐍 Django full stack
