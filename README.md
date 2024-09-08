@@ -4,7 +4,7 @@ I've led innovative projects, so lets connect and explore web and mobile develop
 
 **Motto 💬 : "Turning ideas into digital realities, one line of code at a time."**
 
-- 🔭 I’m currently working as a software engineer in a  on mern stack app : terrainet (web and mobile) 
+- 🔭 I’m currently working as a software engineer at [@iberis.io](https://finances.iberis.io)
 <!--
 **Akram-Hafaiedh/Akram-Hafaiedh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -23,16 +23,28 @@ I've led innovative projects, so lets connect and explore web and mobile develop
 - 👌 MERN ( MongoDB , Express, React/React Native , Node.js) 
 - 👌 MEAN ( MongoDB , Express, Angular , Node.js) 
 - 👌 MEVN ( MongoDB , Express, Vue , Node.js)
+- 👌 Nuxt.js ( Vue, Any Database, Node.js)
+- 👌 Next.js ( React, Any Database, Node.js)
 
 ⚡PHP:
 
-- 👌 Tall stack ( Tailwind , Alpinejs, Livewire , Laravel) 
-- 🤟 Laravel Full stack ( Blade, Interia, Livewire ) 
-- 🤔 Native PHP stack ( Blade, Interia, Livewire )
+- 🐘 Native PHP Stack ( PHP, Custom Frontend, Custom Backend Logic)
+- 🏔️ TALL Stack ( Tailwind, Alpine.js, Livewire, Laravel)
+- 🚀 Laravel Full Stack ( Blade, Inertia.js, Livewire)
+- 🦋 Laravel + jQuery (Old Laravel + jQuery)
+- 💙 Laravel + Vue ( Laravel, Vue)
+- ⚛️ Laravel + React ( Laravel, React)
+- 🔺 Laravel + Angular ( Laravel, Angular)
+- 🔄 Strapi + Vue (Strapi, Vue)
+- ⚛️ Strapi + React (Strapi, React)
+- 🔺 Strapi + Angular (Strapi, Angular)
  
 ⚡Python:
 
-- 🤔 Django full stack (Python)
+- 🐍 Django full stack
+- ⚛️ Django + React 
+- 🌈 Django + Vue
+- 🔺 Django + Angular
 
 ## Collaboration:
 
@@ -41,7 +53,7 @@ I've led innovative projects, so lets connect and explore web and mobile develop
   
 ## Learning:
 
-- 🌱 Currently deepening my knowledge in Next.js/Nuxt.js to enhance my expertise in React-based frameworks.
+- 🌱 Currently deepening my knowledge in NestJS to enhance my expertise in JavaScript/TypeScript-based ecosystems.
 - 💡 Exploring new advancements in full stack development and staying updated on industry best practices.
 - 📚 Open to recommendations for books, courses, or resources that can contribute to my continuous learning journey.
 
