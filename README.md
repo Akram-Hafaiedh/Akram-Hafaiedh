@@ -47,18 +47,20 @@ Passionate Full Stack Developer with 4+ years of expertise in architecting and d
 
 ## 💼 Professional Experience
 
+### **Senior Full Stack Developer Freelance** | Coagroup · Germany (Remote)
+*Jul 2025 - Oct 2025*
+- Built comprehensive enterprise management dashboard for German market
+- Modular architecture: insurance, accounting, taxation, HR modules
+- Modern React interface with real-time notifications and activity logs
+
+
 ### **Senior Full Stack Developer** | Iberis · Tunis
-*Dec 2023 - Present*
+*Dec 2023 - Jun 2025*
 - Led complete migration of SaaS platform using Vue.js and Laravel
 - Developed FinTech SaaS modules with real-time stock synchronization
 - Implemented multi-currency and multi-language support
 - Scaled platform from 1k to 9k+ active users
 
-### **Senior Full Stack Developer Freelance** | Coagroup · Germany (Remote)
-*Jul 2022 - Oct 2023*
-- Built comprehensive enterprise management dashboard for German market
-- Modular architecture: insurance, accounting, taxation, HR modules
-- Modern React interface with real-time notifications and activity logs
 
 ### **Full Stack Developer** | Next Consulting · Tunis
 *Aug 2023 - Nov 2023*
