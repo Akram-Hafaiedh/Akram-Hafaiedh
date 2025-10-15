@@ -10,8 +10,8 @@ Passionate Full Stack Developer with 4+ years of expertise in architecting and d
 
 ## 🚀 Current Focus
 
-- 🔭 Currently working as **Software Engineer** at [@iberis.io](https://finances.iberis.io)
-- 💼 Open to freelance opportunities and innovative projects
+- 🔭 **Open to new opportunities** as Senior Full Stack Developer
+- 💼 Available for **freelance projects** and **technical consulting**
 - 🌱 Deepening my knowledge in **NestJS** and advanced system architecture
 - 🎯 Passionate about clean code, agile methodologies, and cross-functional collaboration
 
@@ -45,20 +45,26 @@ Passionate Full Stack Developer with 4+ years of expertise in architecting and d
 
 ---
 
-## 💼 Featured Projects
+## 💼 Professional Experience
 
-### **Iberis SaaS Platform**
-- **Technologies**: Vue.js, Laravel, Multi-currency, Real-time sync
-- **Achievement**: Scaled platform from 1k to 9k+ active users
-- **Features**: Custom PDF modules, multi-language support, payment processing
+### **Senior Full Stack Developer** | Iberis · Tunis
+*Dec 2023 - Present*
+- Led complete migration of SaaS platform using Vue.js and Laravel
+- Developed FinTech SaaS modules with real-time stock synchronization
+- Implemented multi-currency and multi-language support
+- Scaled platform from 1k to 9k+ active users
 
-### **Enterprise Management Dashboard** (Coagroup)
-- **Technologies**: React, Modular Architecture
-- **Features**: Insurance, accounting, taxation, HR modules with real-time notifications
+### **Senior Full Stack Developer Freelance** | Coagroup · Germany (Remote)
+*Jul 2022 - Oct 2023*
+- Built comprehensive enterprise management dashboard for German market
+- Modular architecture: insurance, accounting, taxation, HR modules
+- Modern React interface with real-time notifications and activity logs
 
-### **NFC Loyalty Card System**
-- **Technologies**: Cross-platform mobile app, Responsive Web Interface
-- **Role**: Technical leadership and team mentoring
+### **Full Stack Developer** | Next Consulting · Tunis
+*Aug 2023 - Nov 2023*
+- Developed complex real-time applications with WebSockets
+- Built transportation solution with push notifications
+- Created real estate marketplace with advanced search engine
 
 ---
 
@@ -97,6 +103,13 @@ Passionate Full Stack Developer with 4+ years of expertise in architecting and d
 - **French**: Fluent (C1)
 - **English**: Intermediate (B2)
 - **Spanish**: Basic (A2)
+
+---
+
+## 🏆 Certifications
+
+- **MEAN Stack Certification** - Technologia Academy (2021)
+- **Self-Taught Full Stack Development** - Continuous Learning (2019-2024)
 
 ---
 
