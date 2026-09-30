@@ -46,8 +46,8 @@ Figma · Postman · Sentry · Jira
 ---
 
 ## 🌐 Links & Contact
-🔗 **Portfolio:** https://portfolio-six-mu-c3zpt9l3gd.vercel.app  
-🔗 **LinkedIn:** https://www.linkedin.com/in/akram-hafaledh  
+🔗 **Portfolio:** [Portfolio](https://akram-hafaiedh.vercel.app/)  
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/akram-hafaledh)  
 📧 **Email:** hafaledhakram@gmail.com  
 
 ---
